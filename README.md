@@ -37,3 +37,8 @@ Description: This milestone marks the completion of the core features for the ho
 - Assigned to: Team Member C
 - Labels: task, database
 
+## Tracking Progress:
+- We will use this project board to visualize the status of each task. Team members will move issues from "To Do" to "In Progress" and finally to "Done" as they complete them. This will help everyone stay on the same page and identify bottlenecks quickly.
+
+## Reason for Selection:
+- The bug report on room availability is vital to achieving the milestone, as any incorrect data directly impacts the user experience. Meanwhile, designing the database schema is essential for the foundational structure of the hotel management system. Both issues are critical for reaching our goal of completing the initial feature set.
